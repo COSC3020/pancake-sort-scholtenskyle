@@ -17,7 +17,7 @@ function pancakeSort(array) {
             }
         }
         if (maxSize != (size - 1)){
-            if (maxSize >= 0){
+            if (maxSize > 0){
                 flip(array, maxSize + 1);
             }
             flip(array, size);
