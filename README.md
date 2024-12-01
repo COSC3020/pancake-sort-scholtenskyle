@@ -35,7 +35,7 @@ https://www.geeksforgeeks.org/pancake-sorting/
 
 https://www.geeksforgeeks.org/pancake-sorting-in-python/
 
-I used the above links for gaining a better understanding of what pancake sorting actually is, Even then I was still a little fuzzy and used ChatGPT to clear up how it works. These sources were used for purely better understanding the problem.
+I used the above links for gaining a better understanding of what pancake sorting actually is, Even then I was still a little fuzzy and used ChatGPT to clear up how it works. These sources were used purely for better understanding the problem and how pancake sorting is supposed to work.
 
 I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
 
