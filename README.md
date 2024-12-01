@@ -29,3 +29,12 @@ What is the asymptotic runtime ($\Theta$) of your algorithm in terms of the
 number of comparisons? What is it in terms of the number of flips? Add your
 answer to this markdown file.
 
+For the amount of comparisons, the asymptotic runtime would be $$O(n^2)$$ because there are nested loops, where it could potentially run through every iteration of the array or element before it is correct. But the runtime complexity would be $$O(n)$$ for the amount of flips. This is purely because at most each index could be flipped twice, which isn't enough times for it to be anything but linear, as well as there not being enough complexity in the flips with things like nested loops.
+
+https://www.geeksforgeeks.org/pancake-sorting/
+https://www.geeksforgeeks.org/pancake-sorting-in-python/
+
+I used the above links for gaining a better understanding of what pancake sorting actually is, Even then I was still a little fuzzy and used ChatGPT to clear up how it works. These sources were used for purely better understanding the problem.
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
+
