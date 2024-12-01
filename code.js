@@ -7,7 +7,7 @@ function flip(array, n) {
         end = end - 1;
     }
 }
-// *Use only flip() here to manipulate the array*
+// Use only flip() here to manipulate the array
 function pancakeSort(array) {
     for (let size = array.length; size > 1; size--){
         let maxSize = 0;
