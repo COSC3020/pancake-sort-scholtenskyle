@@ -11,12 +11,12 @@ function flip(array, n) {
 function pancakeSort(array) {
     for (let size = array.length; size > 1; size--){
         let maxSize = 0;
-        for (let i = 0; i < (size + 1); i++){
+        for (let i = 0; i < (size - 1); i++){
             if (array[i] > array[maxSize]){
                 maxSize = i;
             }
         }
-        if (maxSize != (size - 1)){
+        if (maxSize !== (size - 1)){
             if (maxSize > 0){
                 flip(array, maxSize + 1);
             }
